@@ -1,0 +1,11 @@
+EmployeeID,Name,Email,Department,Salary,Age,City
+1,John Mensah,j.mensah28@gmail.com,IT,65000,28,Accra
+2,Mary Owusu,mary_owusu@yahoo.com,HR,42000,32,Kumasi
+3,David Asante,david.a.finance@outlook.com,Finance,58000,40,Takoradi
+4,Sarah Boateng,sboateng.hr@hotmail.com,IT,72000,35,Accra
+5,Peter Adu,peteradu27@gmail.com,Marketing,39000,27,Sunyani
+6,Grace Amoah,g.amoah38@proton.me,Finance,61000,38,Kumasi
+7,Michael Kofi,mkofi_it@outlook.com,IT,68000,30,Tamale
+8,Linda Appiah,linda.appiah29@gmail.com,HR,45000,29,Accra
+9,James Nyarko,jnyarko.marketing@yahoo.com,Marketing,41000,33,Kumasi
+10,Ama Darko,amadarko.finance@hotmail.com,Finance,63000,36,Takoradi
